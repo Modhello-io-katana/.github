@@ -6,7 +6,7 @@ Minecraft 1.21.80.25 es la última versión beta de Minecraft Pocket Edition. Es
 
 Los jugadores pueden explorar un universo infinito, recolectar recursos, fabricar herramientas y enfrentarse a diversos desafíos. La actualización "Spring to Life" añade innovaciones como el **Happy Ghast**, el **Ghastling**, el **Dried Ghast Block**, el **Harness** y el nuevo **Locator Bar** para mejorar la experiencia multijugador.
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/f12bbb01-1095-4e4e-892b-263c627b6d75)
 
 ## Características principales de Minecraft 1.21.80.25
 
